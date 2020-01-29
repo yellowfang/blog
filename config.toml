@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+title = "Blog"
+
+languageCode = "ko-KR"
+DefaultContentLanguage = "kr"
+theme = "hugo-hello-programmer-theme"
+
+paginate = 7
+
+[author]
+		name = "yellowfang"
+		email = "shie44167@gmail.com"
