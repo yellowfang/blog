@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://yellowfang.github.io/"
 title = "Blog"
 
 languageCode = "ko-KR"
