@@ -8,6 +8,9 @@ cover: ""
 
 여기에 열심히 글을 적습니다.
 
+## chap 1
+## chap 2
+
 $$
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
 $$

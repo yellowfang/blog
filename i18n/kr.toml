@@ -41,7 +41,7 @@ other = "다음"
 # Post
 ###################
 [postAuthorPrefix]
-other = "친절한"
+other = " "
 
 [postAuthorPostfix]
 other = "님이"

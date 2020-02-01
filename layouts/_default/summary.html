@@ -1,4 +1,4 @@
-<div class="post">
+<div class="post" style="height: 49px; padding-top: 20px; padding-bottom: 20px;">
   <div class="post-title">
     <a href="{{ .Permalink }}" title="{{ .Title }}">
       <img src="{{ "/images/post-title-icon.png" | relURL }}" />
@@ -15,10 +15,4 @@
     </a>
   </div>
   {{ end }}
-  <div>
-    {{ .Summary }}
-    {{ if .Truncated }}
-    <a href="{{ .RelPermalink }}" class="summary-more">{{ i18n "postReadMore" }}</a>
-    {{ end }}
-  </div>
-</div>
+</div>  
